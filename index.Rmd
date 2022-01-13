@@ -28,7 +28,7 @@ Segala puji bagi Allah yang memberi hidayah kepada siapa yang dia kehendaki dan 
 
 
 
-<i style="text-align:'right';">Jakarta. Kamis, 10 Jumadil Akhir 1443 H / 13 Januari 2022</i>
+<i style="text-align:right;">Jakarta. Kamis, 10 Jumadil Akhir 1443 H / 13 Januari 2022</i>
 
 
 ```{r include=FALSE}
