@@ -1,24 +1,24 @@
 {
-    "id": "F24AB3E7",
-    "path": "~/MainR/nahwu/README.md",
-    "project_path": "README.md",
-    "type": "markdown",
-    "hash": "0",
+    "id": "076430A4",
+    "path": "~/MainR/all/__AdvanceR/belajar bookdown.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "2470759464",
     "contents": "",
     "dirty": false,
-    "created": 1642080954960.0,
+    "created": 1642084582893.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 7,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1642080949,
+    "lastKnownWriteTime": 1642081765,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1642080949,
+    "last_content_update": 1642081765,
     "read_only": false,
     "read_only_alternatives": []
 }

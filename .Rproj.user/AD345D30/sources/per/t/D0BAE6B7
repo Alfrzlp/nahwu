@@ -1,26 +1,26 @@
 {
-    "id": "2F4D88F5",
-    "path": "~/MainR/nahwu/style.css",
-    "project_path": "style.css",
-    "type": "css",
-    "hash": "1541325586",
+    "id": "D0BAE6B7",
+    "path": "~/MainR/nahwu/_bookdown.yml",
+    "project_path": "_bookdown.yml",
+    "type": "yaml",
+    "hash": "3911226419",
     "contents": "",
     "dirty": false,
-    "created": 1642081283273.0,
+    "created": 1642084114807.0,
     "source_on_save": false,
     "relative_order": 5,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,15",
-        "scrollLine": "9"
+        "cursorPosition": "0,24",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1642081297,
+    "lastKnownWriteTime": 1642084129,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1642081297058,
+    "last_content_update": 1642084129328,
     "read_only": false,
     "read_only_alternatives": []
 }
