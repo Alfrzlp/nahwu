@@ -3,3 +3,23 @@
     الكلمة: قولٌ مفرٌ    
 </p>
 
+## القول
+<p class='arb'>
+القول: اللفظ الدال على معنى كرجل .اللفظ: الصوت المشتمل على بعض الحروف، سواء دلّ على معنى كزيد أم لم يدلّ على معنى كديز      
+</p>
+
+Faidah : Semua قولٌ pasti لفظ namun tidak sebaliknya
+
+## المفرد
+<p class='arb'>
+ المفرد: ما لا يدللّ جُزؤه على جزؤ معناه
+</p>
+
+## أقسام الكلمة 
+<p class='arb'>
+أقسام الكلمة: اسم، فعل، و حرف
+</p>
+
+- Alamat isim : dengan adanya ال, tanwin dan juga diceritakan tentangnya. seperti ت pada ضربتُ
+- Alamat Fiil : Bisa masuk لم
+- Alamat Huruf : selain keduannya
