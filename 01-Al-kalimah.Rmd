@@ -20,6 +20,12 @@ Faidah : Semua قولٌ pasti لفظ namun tidak sebaliknya
 أقسام الكلمة: اسم، فعل، و حرف
 </p>
 
-- Alamat isim : dengan adanya ال, tanwin dan juga diceritakan tentangnya. seperti ت pada ضربتُ
-- Alamat Fiil : Bisa masuk لم
+- Alamat isim  : dengan adanya ال, tanwin dan juga diceritakan tentangnya. seperti ت pada ضربتُ
+- Alamat Fiil  : Bisa masuk لم
 - Alamat Huruf : selain keduannya
+
+### اسم
+
+### فعل
+
+### حرف
